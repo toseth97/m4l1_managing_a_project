@@ -1,13 +1,15 @@
-Crimson
-Orange
-Green
-Cyan
-Yellow
-Ivory
-Khaki
+Indigo
+Teal
+magenta
+Blue
+Charcoal
+Aquamarine
 Coral
-Silver
 Fuchsia
-Gray
-Brown
-Red
+Wheat
+Lime
+Hot pink
+Magenta
+Olden
+Plum
+Olive
